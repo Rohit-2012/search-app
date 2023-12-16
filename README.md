@@ -27,7 +27,7 @@ This is a search web application that allows users to search for information usi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/search-web-app.git
+   git clone https://github.com/Rohit-2012/search-app.git
 
 ## Demo Link
  https://shiny-sherbet-232a49.netlify.app/
